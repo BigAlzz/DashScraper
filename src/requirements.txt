@@ -1,0 +1,27 @@
+# Detected packages
+psutil==6.1.1
+matplotlib==3.10.0
+pandas==2.2.3
+
+# Common useful packages (commented out by default)
+# pytest  # testing
+# black  # code formatting
+# flake8  # linting
+# mypy  # type checking
+# python-dotenv  # environment variables
+# requests  # HTTP requests
+# numpy  # numerical computations
+# pillow  # image processing
+# openpyxl  # Excel support
+# python-docx  # Word document support
+# pypdf2  # PDF support
+# beautifulsoup4  # web scraping
+# selenium  # web automation
+# flask  # web framework
+# django  # web framework
+# sqlalchemy  # database ORM
+# psycopg2-binary  # PostgreSQL support
+# pymysql  # MySQL support
+# cryptography  # encryption/security
+# pyyaml  # YAML support
+# tqdm  # progress bars

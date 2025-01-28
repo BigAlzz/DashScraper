@@ -1,0 +1,22 @@
+📊 GCRA Bursary Summary Dashboard
+Afternoon Report - Applications
+📅 2025-01-28 17:01:21
+
+📝 Processing Status
+• In Progress: 7617 📈 (+229)
+• Awaiting Verification: 5801 📈 (+255)
+• Incomplete: 83 📈 (+4)
+• Complete: 52 📉 (-5)
+Total Processing: 13553 📈 (+483)
+
+👀 Review Status
+• Awaiting Recommendation: 42 📈 (+3)
+• Recommended: 52 📉 (-5)
+• Awaiting Approval: 42 📈 (+3)
+Total in Review: 136 📈 (+1)
+
+✅ Approval Status
+• Approved: 357 📈 (+63)
+• Declined: 1
+• Reserved: 4
+Total Approved: 362 📈 (+63)
